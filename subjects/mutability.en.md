@@ -2,8 +2,8 @@
 
 ### Instructions
 
-Create a copy of the person object called clone1.
-Create an other copy of the person object called clone2.
+Create a copy of the person object called `clone1`.
+Create an other copy of the person object called `clone2`.
 
 Create a new variable `samePerson` with the same value as `person`.
 
